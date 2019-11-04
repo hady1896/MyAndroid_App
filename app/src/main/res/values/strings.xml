@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">First</string>
+    <string name="tab_text_2">Second</string>
+    <string name="tab_text_3">Third</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_First">First</string>
+    <string name="title_Second">Second</string>
+    <string name="title_Third">Third</string>
+
+</resources>
